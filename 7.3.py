@@ -52,6 +52,6 @@ print(" Reading distance " )
 while True:
     ping()
     
-    
+#setup guide used:-  https://www.piddlerintheroot.com/hc-sr04/
 
     
